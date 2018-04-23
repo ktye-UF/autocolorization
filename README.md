@@ -1,7 +1,12 @@
 # autocolorization
 
 based on Richard Zhang's paper:([Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf))
+
 and his source code: ([Richard Zhang's Github](https://github.com/richzhang/colorization))
+
+#### Requirment
+
+TensorFlow etc. 
 
 #### Train
 
