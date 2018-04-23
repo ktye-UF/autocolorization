@@ -1,0 +1,16 @@
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000802.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000724.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001503.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001296.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000885.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001532.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001425.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000872.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000785.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000776.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000285.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001268.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001000.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001490.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000000632.jpg
+/home/ktye/study/BD proj/colorization-tf/data/imagenet/000000001353.jpg
