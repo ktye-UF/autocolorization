@@ -6,15 +6,18 @@ and his source code: ([Richard Zhang's Github](https://github.com/richzhang/colo
 
 #### Requirment
 
+```
 TensorFlow etc. 
+```
+
 
 #### Train
 
 ## 1. link your training dataset directory to the following path:
 
-	```
-	ln -s $Imagenet data/imagenet
-	```
+```
+ln -s $Imagenet data/imagenet
+```
   
 ## 2. create the list of paths of training data:
 
