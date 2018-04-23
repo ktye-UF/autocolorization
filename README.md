@@ -34,7 +34,7 @@ python tools/train.py -c conf/train.cfg
 #### Test/demo
 
 ## 1. Download pretrained model and move it to models/
-[pretrained model](https://drive.google.com/file/d/0B-yiAeTLLamRWVVDQ1VmZ3BxWG8/view?usp=sharing)
+[pretrained model](https://drive.google.com/file/d/184bZsYkk6cUxUvrn7UMEjmRJ8GQ-1Wjm/view?usp=sharing)
 
 ## 2. Test/demo
 
