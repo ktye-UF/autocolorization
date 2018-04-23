@@ -13,10 +13,10 @@ TensorFlow etc.
 
 #### Train
 
-## 1. link your training dataset directory to the following path:
+## 1. link your training dataset directory to the following path: 
 
 ```
-ln -s $Imagenet data/imagenet
+ln -s $your_data_path data/imagenet
 ```
   
 ## 2. create the list of paths of training data:
@@ -38,6 +38,6 @@ python tools/train.py -c conf/train.cfg
 
 ## 2. Test/demo
 
-	```
-	python demo.py
-	```
+```
+python demo.py
+```
